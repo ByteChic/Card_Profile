@@ -8,8 +8,7 @@ This is a personal portfolio website for Nayan Swarnkar, showcasing skills, proj
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
